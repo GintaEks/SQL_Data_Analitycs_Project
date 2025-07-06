@@ -1,4 +1,4 @@
-
+-- Cutomers report --
 Query ini dibuat untuk menganalisis data pelanggan dari database penjualan. Tujuannya adalah untuk memahami perilaku pelanggan berdasarkan transaksi mereka.
 
 ✨ Ringkasan Analisis
